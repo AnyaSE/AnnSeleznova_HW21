@@ -1,0 +1,19 @@
+
+#website__button, button[type="reset"] {
+    border: none;
+    padding: 5px 10px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  #website__button {
+    background-color: #4CAF50;
+  }
+
+  button[type="reset"] {
+    background-color: darkgray;
+  }
